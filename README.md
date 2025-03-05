@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shukolza (telegram the same)
-- 👀 I’m interested in Python small scripts development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python & web development
+- 🌱 I’m currently learning Python & JS
 - I'm currently learning some frontend to make my own online school diary for my school
 - 💞️ I’m looking to collaborate on nothing, but if you are intrested, you can text me
 - 📫 How to reach me: shukolza@gmail.com; @shukolza (TG)
